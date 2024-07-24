@@ -10,7 +10,7 @@ with open("bacteria.txt","r") as file:
    for line in lines:
       word, hint= line.strip().split(':')
       words[word.strip()] = hint.strip()
-print(words)
+
 
 #guess = input("Player  guess: ")
 
