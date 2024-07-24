@@ -1,0 +1,11 @@
+pseudomonas:an aerobic microorganism that is a motile, gram-negative rod-shaped bacterium, resistance against many antibacterial compounds
+staphylococci:clustering gram-positive coccus, nonmotile, non-spore-forming facultatively anaerobic, food poisoning
+escherichia:a gram-negative, facultative anaerobic, rod-shaped, coliform bacterium
+mycobacterium:thin rod-shaped,non-motile,acid fast bacillus
+neisseria:an aerobic, non-motile, gram-negative diplococcus
+coxiella:obligate pathogen, causative agent of Q fever
+bordetella:small, gram-negative, coccobacilli bacteria, causes pertussis
+leptospira:obligate aerobic spirochaete bacteria shaped like a corkscrew with hooked and spiral ends 
+shigella:gram-negative, rod shaped, facultatively anaerobic bacteria, causes bloody dysentry
+klebsiella:gram-negative, non-motile, encapsulated, lactose-fermenting bacteria, causes UTI
+gardenerella:gram-variable-staining facultative anaerobic bacteria,maintains acidity in vagina
